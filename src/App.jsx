@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
-import Homepage from "./pages/homepage";
+import Homepage from "./pages/Homepage";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import ProductDetail from "./pages/ProductDetail";
 import ProductDetailArea from "./components/ProductDetailArea";
